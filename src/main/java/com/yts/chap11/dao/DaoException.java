@@ -1,4 +1,4 @@
-package com.YTS.chap11.dao;
+package com.yts.chap11.dao;
 
 /**
  * SQLException을 wrapping하기 위한 RuntimeException.<br>

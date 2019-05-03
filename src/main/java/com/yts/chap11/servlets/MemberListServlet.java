@@ -1,4 +1,4 @@
-package com.YTS.chap11.servlets;
+package com.yts.chap11.servlets;
 
 import java.io.IOException;
 import java.util.List;
@@ -12,9 +12,10 @@ import javax.servlet.http.HttpServletResponse;
 
 import org.apache.logging.log4j.LogManager;
 import org.apache.logging.log4j.Logger;
-import com.YTS.chap11.dao.Member;
-import com.YTS.chap11.dao.MemberDao;
-import com.YTS.chap11.dao.MemberDaoImpl;
+
+import com.yts.chap11.dao.Member;
+import com.yts.chap11.dao.MemberDao;
+import com.yts.chap11.dao.MemberDaoImpl;
 
 @WebServlet("/members")
 public class MemberListServlet extends HttpServlet {

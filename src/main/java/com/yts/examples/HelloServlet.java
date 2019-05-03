@@ -1,4 +1,4 @@
-package com.YTS.examples;
+package com.yts.examples;
 
 import java.io.IOException;
 

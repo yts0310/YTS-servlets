@@ -1,4 +1,4 @@
-package com.YTS.chap11.dao;
+package com.yts.chap11.dao;
 
 /**
  * p.60 [리스트 3.3] Member 클래스 수정<br>

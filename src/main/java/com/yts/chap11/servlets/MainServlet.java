@@ -1,4 +1,4 @@
-package com.YTS.chap11.servlets;
+package com.yts.chap11.servlets;
 
 import java.io.IOException;
 
